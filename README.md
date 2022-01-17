@@ -15,6 +15,7 @@ You can get the model that contains this modulescript [here](https://www.roblox.
 
 **Make sure to remember, if a function returns nil, it doesn't mean that the function returned false, instead the function failed to retrieve the player data**
 
+***This module only supports effects for gui objects with anchor point (0,0); Support for different anchor points will be added later***
 
 ### Module.CircleGuiObject(guiobject, pixelwidth, color, uicorner, speed)
 * this function starts circling a gui object to get the player's attention (or as decoration)
